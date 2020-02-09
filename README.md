@@ -4,7 +4,7 @@ a fully functional timer with some slick animations created using js
 
 # **Bugs to be fixed:**
  - ~~Pause button dissappers if you spam click it~~  
- - The timer's speed increases everytime you click it  
+ - The timer's speed increases everytime you click start 
  - The timer animation border resets if you click pause and start after that
  
  
